@@ -1,6 +1,11 @@
 ---
+cover: .gitbook/assets/shutterstock_1929852050-scaled.jpg
+coverY: 87.61363451098032
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
