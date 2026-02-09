@@ -19,28 +19,40 @@ layout:
 
 ### Overview
 
-The platform currently consists of a single Proxmox node acting as the primary compute host.
+The platform currently relies on a single Proxmox VE node acting as the primary compute host.
 
-Network access is provided by an ISP router with a flat LAN topology.
+At this stage, the infrastructure is intentionally simple in order to establish stable foundations before introducing additional layers such as segmentation, centralized identity or automation.
+
+External connectivity is provided by the ISP router, while internal services are hosted locally.
 
 ***
 
 ### Current Components
 
-* Proxmox VE single node
+* Proxmox VE (single node)
 * NVMe system disk
-* SSH secured access
-* Initial documentation repository
-* Cloudflare-based external access (planned)
+* Managed switch (Layer 2)
+* Intel dual-port Ethernet NIC
+* Auxiliary Orange Pi node used for lightweight workloads
+
+Most services are currently deployed directly within the local network without strict segmentation.
 
 ***
 
-### Limitations
+### Design Intent
 
-* No network segmentation
-* No centralized identity provider
-* No backup server deployed yet
+The current architecture prioritizes:
+
+* Stability
+* Observability of system behaviour
+* Ease of recovery
+
+More advanced capabilities such as VLAN isolation, dedicated firewalling and cluster expansion are planned but not yet fully implemented.
 
 ***
 
-(Attach: Current infrastructure topology diagram)
+### High-Level Overview
+
+<figure><img src="../.gitbook/assets/simple-network-diagram.png" alt=""><figcaption></figcaption></figure>
+
+***
