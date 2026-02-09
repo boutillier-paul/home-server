@@ -17,6 +17,14 @@ layout:
 
 # Goals, use cases & constraints
 
+### Tooling Principles
+
+* Prefer open-source solutions when possible.
+* Use free tiers selectively when they provide clear value (e.g. edge access or availability).
+* Avoid vendor lock-in when it conflicts with portability and long-term autonomy.
+
+***
+
 ### Short-Term Goals
 
 * Centralize core services on Proxmox
@@ -68,3 +76,8 @@ layout:
 * Limited hardware
 * Budget awareness
 * Single primary operator
+
+
+
+
+
