@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/shutterstock_1929852050-scaled.jpg
+cover: .gitbook/assets/background.jpg
 coverY: 87.61363451098032
 layout:
   width: default

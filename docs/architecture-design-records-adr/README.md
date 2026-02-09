@@ -58,6 +58,6 @@ Read ADRs in chronological order.
 
 ### Decision Lifecycle
 
-<figure><img src="../.gitbook/assets/mermaid-diagram-2026-02-09-160044.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/decision-lifecycle.png" alt=""><figcaption></figcaption></figure>
 
 ***
