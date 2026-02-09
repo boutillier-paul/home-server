@@ -33,7 +33,7 @@ This section covers:
 * Goals, constraints, and non-goals
 * Terminology and definitions
 
-It does **not** include technical implementation details.
+It does not include technical implementation details.
 
 ***
 

@@ -4,6 +4,7 @@
 * [Introduction](introduction/README.md)
   * [Vision & philosophy](introduction/vision-and-philosophy.md)
   * [Goals, non-goals & constraints](introduction/goals-non-goals-and-constraints.md)
+  * [Target audience & access model](introduction/target-audience-and-access-model.md)
   * [Glossary](introduction/glossary.md)
 * [Environment](environment/README.md)
   * [Current architecture](environment/current-architecture.md)

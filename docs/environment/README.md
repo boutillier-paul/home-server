@@ -21,7 +21,7 @@ layout:
 
 Describe the current technical environment and baseline infrastructure.
 
-This section represents the **source of truth** regarding the existing platform state.
+This section represents the source of truth regarding the existing platform state.
 
 ***
 
