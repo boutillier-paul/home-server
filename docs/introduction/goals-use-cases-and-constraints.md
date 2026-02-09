@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Goals, non-goals & constraints
+# Goals, use cases & constraints
 
 ### Short-Term Goals
 
@@ -44,6 +44,14 @@ layout:
 
 ***
 
+### Non-Goals
+
+* Hyperscale performance
+* Enterprise SLA guarantees
+* Full replacement of public cloud providers
+
+***
+
 ### Use Cases
 
 * Access from anywhere on any device
@@ -52,14 +60,6 @@ layout:
 * Security experimentation
 * Game server hosting
 * Local AI model experimentation
-
-***
-
-### Non-Goals
-
-* Hyperscale performance
-* Enterprise SLA guarantees
-* Full replacement of public cloud providers
 
 ***
 
