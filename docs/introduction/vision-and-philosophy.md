@@ -118,5 +118,3 @@ Refactors and redesigns are expected and considered part of the learning process
 ### Platform Evolution Model
 
 <figure><img src="../.gitbook/assets/platform-evolution-model.png" alt=""><figcaption></figcaption></figure>
-
-***

@@ -54,5 +54,3 @@ More advanced capabilities such as VLAN isolation, dedicated firewalling and clu
 ### High-Level Overview
 
 <figure><img src="../.gitbook/assets/simple-network-diagram.png" alt=""><figcaption></figcaption></figure>
-
-***

@@ -19,26 +19,28 @@ layout:
 
 ### Current State
 
-Flat LAN network provided by ISP router.
+The network currently operates as a flat LAN behind the ISP router.
+
+All devices share the same broadcast domain.
 
 ***
 
-### Target Segmentation
+### Planned Segmentation
 
-* Management VLAN
-* Services VLAN
-* DMZ VLAN
-* Lab VLAN
-* Storage VLAN
+The target design introduces logical separation using VLANs.
 
-***
+| VLAN       | Purpose                       |
+| ---------- | ----------------------------- |
+| Management | Infrastructure administration |
+| Services   | Internal applications         |
+| DMZ        | Exposed services              |
+| Lab        | Experimental workloads        |
+| Storage    | Backend traffic               |
 
-### Routing Strategy
-
-* Short term: ISP router
-* Mid term: pfSense VM
-* Long term: Dedicated firewall
+Routing between segments will eventually be handled by pfSense or OPNsense.
 
 ***
 
-(Attach: Network segmentation diagram)
+### Logical Layout
+
+<figure><img src="../.gitbook/assets/network-logical-layout.png" alt=""><figcaption></figcaption></figure>

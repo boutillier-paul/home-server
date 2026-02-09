@@ -52,5 +52,3 @@ Recommended order:
 2. Goals, non-goals & constraints
 3. Target audience & access model
 4. Glossary
-
-***

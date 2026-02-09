@@ -68,5 +68,3 @@ Used for:
 * Potential quorum node in future cluster scenarios
 
 <figure><img src="../.gitbook/assets/orangepi5.png" alt="" width="375"><figcaption></figcaption></figure>
-
-***

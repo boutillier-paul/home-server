@@ -41,15 +41,6 @@ Read ADRs in chronological order.
 
 ***
 
-### Contents
-
-* ADR-0001 — Proxmox Choice
-* ADR-0002 — Network Segmentation Strategy
-
-***
-
 ### Decision Lifecycle
 
 <figure><img src="../.gitbook/assets/decision-lifecycle.png" alt=""><figcaption></figcaption></figure>
-
-***

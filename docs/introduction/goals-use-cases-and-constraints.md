@@ -68,5 +68,3 @@ layout:
 * Limited hardware
 * Budget awareness
 * Single primary operator
-
-***

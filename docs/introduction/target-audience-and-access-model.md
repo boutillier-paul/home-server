@@ -65,5 +65,3 @@ The platform follows an identity-centric access strategy.
 ### Access Architecture
 
 <figure><img src="../.gitbook/assets/access-model.png" alt=""><figcaption></figcaption></figure>
-
-***

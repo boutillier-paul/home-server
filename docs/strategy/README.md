@@ -54,5 +54,3 @@ Includes:
 ### Evolution Concept Diagram
 
 <figure><img src="../.gitbook/assets/evolution-concept-diagram.png" alt=""><figcaption></figcaption></figure>
-
-***

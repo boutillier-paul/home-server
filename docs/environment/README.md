@@ -17,57 +17,17 @@ layout:
 
 # Environment
 
-### Purpose
+This section documents the current technical environment and its intended evolution.
 
-Describe the current technical environment and baseline infrastructure.
+It acts as a factual reference describing the platform as it exists today, including hardware, network layout, addressing strategy and supported capabilities.
 
-This section represents the source of truth regarding the existing platform state.
-
-***
-
-### Scope
-
-Includes:
-
-* Current architecture
-* Hardware inventory
-* Network topology
-* IP addressing
-* Platform capabilities
-* Use cases
-
-***
-
-### How to Read This Section
-
-1. Current Architecture
-2. Hardware Inventory
-3. Network Topology
-4. IP Addressing Plan
-5. Platform Capabilities
-6. Use Cases
-
-***
+The information contained here should be kept up to date whenever infrastructure changes occur.
 
 ### Contents
 
-* **Current Architecture**\
-  Description of the existing infrastructure.
-* **Hardware Inventory**\
-  List of physical equipment.
-* **Network Topology**\
-  Current and target network segmentation.
-* **IP Addressing Plan**\
-  Subnet and VLAN structure.
-* **Platform Capabilities**\
-  Existing and planned functional capabilities.
-* **Use Cases**\
-  Supported scenarios.
-
-***
-
-### High-Level Environment Diagram
-
-<figure><img src="../.gitbook/assets/simple-network-diagram.png" alt=""><figcaption></figcaption></figure>
-
-***
+* **Current architecture** — Overview of the existing infrastructure
+* **Hardware inventory** — Physical equipment and resources
+* **Network topology** — Logical and physical network layout
+* **IP addressing plan** — Current and planned addressing scheme
+* **Platform capabilities** — Functional capabilities currently provided
+* **Use cases** — Scenarios the platform supports
