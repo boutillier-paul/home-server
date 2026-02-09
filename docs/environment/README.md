@@ -74,13 +74,6 @@ Includes:
 
 ***
 
-### Related Sections
-
-* Strategy
-* Architecture Design Records
-
-***
-
 ### High-Level Environment Diagram
 
 <figure><img src="../.gitbook/assets/simple-network-diagram.png" alt=""><figcaption></figcaption></figure>
