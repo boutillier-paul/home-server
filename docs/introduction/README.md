@@ -19,7 +19,7 @@ layout:
 
 ### Purpose
 
-Provide a global overview of the homelab private cloud platform, its intent, and guiding principles.
+Provide a global overview of my homelab private cloud platform, its intent, and guiding principles.
 
 This section establishes the context required to understand the architecture, strategy, and evolution of the platform.
 
@@ -50,19 +50,9 @@ It does not include technical implementation details.
 
 Recommended order:
 
-1. Vision & Philosophy
-2. Goals, Non-Goals & Constraints
-3. Glossary
-
-***
-
-### Contents
-
-* **Vision & Philosophy**\
-  High-level architectural mindset and design principles.
-* **Goals, Non-Goals & Constraints**\
-  Defines the boundaries and expected outcomes of the platform.
-* **Glossary**\
-  Definitions of technical terminology used across the documentation.
+1. Vision & philosophy
+2. Goals, non-goals & constraints
+3. Target audience & access model
+4. Glossary
 
 ***
