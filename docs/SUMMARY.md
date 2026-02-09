@@ -10,7 +10,7 @@
   * [Current architecture](environment/current-architecture.md)
   * [Hardware inventory](environment/hardware-inventory.md)
   * [Network topology](environment/network-topology.md)
-  * [Ip addressing plan](environment/ip-addressing-plan.md)
+  * [IP addressing plan](environment/ip-addressing-plan.md)
   * [Platform capabilities](environment/platform-capabilities.md)
   * [Use cases](environment/use-cases.md)
 * [Strategy](strategy/README.md)

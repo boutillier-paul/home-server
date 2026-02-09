@@ -93,6 +93,17 @@ pfSense and OPNsense provide the best balance between:
 
 * Potential migration from VM-based firewall to dedicated hardware appliance.
 
+***
+
+### Related Documents
+
+* [Current architecture](../environment/current-architecture.md)
+* [Network topology](../environment/network-topology.md)
+* [IP addressing plan](../environment/ip-addressing-plan.md)
+* [Platform capabilities](../environment/platform-capabilities.md)
+* [Roadmap & evolution](../strategy/roadmap-and-evolution.md)
+* [Technical debt](../strategy/technical-debt.md)
+
 
 
 
