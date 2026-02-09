@@ -17,3 +17,28 @@ layout:
 
 # Network topology
 
+### Current State
+
+Flat LAN network provided by ISP router.
+
+***
+
+### Target Segmentation
+
+* Management VLAN
+* Services VLAN
+* DMZ VLAN
+* Lab VLAN
+* Storage VLAN
+
+***
+
+### Routing Strategy
+
+* Short term: ISP router
+* Mid term: pfSense VM
+* Long term: Dedicated firewall
+
+***
+
+(Attach: Network segmentation diagram)
