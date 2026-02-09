@@ -15,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Target architecture
+# Platform capabilities
 

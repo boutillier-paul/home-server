@@ -15,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Failure scenarios & resilience
+# Glossary
 

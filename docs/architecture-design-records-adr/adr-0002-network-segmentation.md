@@ -15,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Observability & operations
+# ADR-0002-network-segmentation
 

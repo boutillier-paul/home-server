@@ -15,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Delivery model
+# Network topology
 

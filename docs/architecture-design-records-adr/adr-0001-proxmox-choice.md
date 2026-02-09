@@ -15,5 +15,5 @@ layout:
     visible: true
 ---
 
-# Secrets & Configuration management
+# ADR-0001-proxmox-choice
 
