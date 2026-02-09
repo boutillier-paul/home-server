@@ -35,14 +35,6 @@ Includes:
 
 ***
 
-### Audience
-
-* Platform owner
-* Reviewers
-* Future collaborators
-
-***
-
 ### How to Read This Section
 
 Read ADRs in chronological order.

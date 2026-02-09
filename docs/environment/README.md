@@ -38,14 +38,6 @@ Includes:
 
 ***
 
-### Audience
-
-* Infrastructure engineers
-* Reviewers
-* Future operators
-
-***
-
 ### How to Read This Section
 
 1. Current Architecture

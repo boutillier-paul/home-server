@@ -39,9 +39,7 @@ It does not include technical implementation details.
 
 ### Audience
 
-* Platform owner
-* Engineers reviewing the infrastructure
-* Future collaborators
+* Me, as the Platform owner
 * Anyone discovering the project
 
 ***

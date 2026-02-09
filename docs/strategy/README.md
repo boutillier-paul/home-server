@@ -35,13 +35,6 @@ Includes:
 
 ***
 
-### Audience
-
-* Platform owner
-* Reviewers
-
-***
-
 ### How to Read This Section
 
 1. Roadmap & Evolution
