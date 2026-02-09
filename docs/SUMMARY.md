@@ -3,7 +3,7 @@
 * [Documentation Guidelines](README.md)
 * [Introduction](introduction/README.md)
   * [Vision & philosophy](introduction/vision-and-philosophy.md)
-  * [Goals, non-goals & constraints](introduction/goals-non-goals-and-constraints.md)
+  * [Goals, use cases & constraints](introduction/goals-use-cases-and-constraints.md)
   * [Target audience & access model](introduction/target-audience-and-access-model.md)
   * [Glossary](introduction/glossary.md)
 * [Environment](environment/README.md)
