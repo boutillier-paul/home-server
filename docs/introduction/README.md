@@ -17,38 +17,26 @@ layout:
 
 # Introduction
 
-### Purpose
+This documentation describes the design, evolution and operation of a personal private cloud platform built as both a learning environment and a long-term infrastructure project.
 
-Provide a global overview of my homelab private cloud platform, its intent, and guiding principles.
+Rather than being a simple collection of self-hosted services, this homelab is intended to function as a structured platform where architectural decisions, operational practices and security principles are applied in a way that mirrors real-world environments.
 
-This section establishes the context required to understand the architecture, strategy, and evolution of the platform.
+The goal is to create an infrastructure that evolves over time, supports experimentation without sacrificing stability, and serves as a reference point for future improvements and automation.
 
-***
+This section provides the context necessary to understand the motivations behind the platform, its guiding principles and the terminology used throughout the rest of the documentation.
 
-### Scope
+### Contents
 
-This section covers:
+* **Vision & Philosophy**\
+  Describes the architectural mindset and guiding principles behind the platform.
+* **Goals, Use Cases & Constraints**\
+  Defines the objectives, limitations and expected outcomes.
+* **Target Audience & Access Model**\
+  Explains who the platform is intended for and how access is structured.
+* **Glossary**\
+  Provides definitions for key technical terms used across the documentation.
 
-* Platform vision and philosophy
-* Goals, constraints, and non-goals
-* Terminology and definitions
 
-It does not include technical implementation details.
 
-***
 
-### Audience
 
-* Me, as the Platform owner
-* Anyone discovering the project
-
-***
-
-### How to Read This Section
-
-Recommended order:
-
-1. Vision & philosophy
-2. Goals, non-goals & constraints
-3. Target audience & access model
-4. Glossary

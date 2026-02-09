@@ -17,5 +17,6 @@
   * [Roadmap & evolution](strategy/roadmap-and-evolution.md)
   * [Technical debt](strategy/technical-debt.md)
 * [Architecture design records (ADR)](architecture-design-records-adr/README.md)
-  * [ADR-0001-proxmox-choice](architecture-design-records-adr/adr-0001-proxmox-choice.md)
+  * [ADR-0000 - Template](architecture-design-records-adr/adr-0000-template.md)
+  * [ADR-0001 - Virtualization Platform Selection](architecture-design-records-adr/adr-0001-virtualization-platform-selection.md)
   * [ADR-0002-network-segmentation](architecture-design-records-adr/adr-0002-network-segmentation.md)

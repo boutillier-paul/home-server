@@ -17,40 +17,18 @@ layout:
 
 # Strategy
 
-### Purpose
+This section describes how the platform is expected to evolve over time.
 
-Define how the platform evolves over time.
+It outlines the progression from the current environment toward a more mature private cloud architecture, while acknowledging existing constraints and technical debt.
 
-This section captures the transformation from current state to target architecture.
-
-***
-
-### Scope
-
-Includes:
-
-* Roadmap
-* Evolution milestones
-* Technical debt tracking
-
-***
-
-### How to Read This Section
-
-1. Roadmap & Evolution
-2. Technical Debt
-
-***
+The strategy focuses on incremental improvement rather than large disruptive changes, ensuring that each capability is introduced only once the underlying foundation is stable.
 
 ### Contents
 
 * **Roadmap & Evolution**\
-  Short, mid, and long-term objectives.
+  High-level phases and progression model.
 * **Technical Debt**\
-  Known limitations and remediation plan.
+  Known limitations and remediation priorities.
 
-***
 
-### Evolution Concept Diagram
 
-<figure><img src="../.gitbook/assets/evolution-concept-diagram.png" alt=""><figcaption></figcaption></figure>
