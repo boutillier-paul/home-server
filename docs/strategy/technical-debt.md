@@ -31,9 +31,9 @@ Tracking these items helps prioritize improvements without forcing unnecessary c
 
 ### Current Debt
 
-* Single Proxmox node
+* Single Proxmox node (single disk before ZFS mirror)
 * Flat network topology
-* No dedicated firewall
+* No dedicated firewall & firewall not yet deployed
 * No centralized identity provider
 * Limited storage redundancy
 
