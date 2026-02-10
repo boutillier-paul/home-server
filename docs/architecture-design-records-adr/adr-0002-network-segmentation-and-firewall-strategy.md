@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# ADR-0002-network-segmentation
+# ADR-0002 Network Segmentation & Firewall Strategy
 
 ### Status
 
@@ -50,7 +50,7 @@ A routing and firewall solution must be selected.
 
 ### Considered Options
 
-<table data-header-hidden><thead><tr><th valign="top">Option</th><th>Advantages</th><th valign="top">Limitations</th></tr></thead><tbody><tr><td valign="top"><strong>pfSense</strong></td><td>Mature firewall platform, strong documentation, enterprise-grade features</td><td valign="top">Slightly heavier resource footprint</td></tr><tr><td valign="top"><strong>OPNsense</strong></td><td>Modern interface, similar capabilities, open governance</td><td valign="top">Smaller community compared to pfSense</td></tr><tr><td valign="top"><strong>RouterOS (Mikrotik)</strong></td><td>Powerful routing features</td><td valign="top">Less aligned with open-source learning goals</td></tr><tr><td valign="top"><strong>OpenWRT</strong></td><td>Lightweight, flexible</td><td valign="top">Limited enterprise-grade firewall features</td></tr><tr><td valign="top"><strong>Cloudflare Tunnel Only</strong></td><td>Simplifies external exposure</td><td valign="top">Does not provide internal segmentation</td></tr><tr><td valign="top"><strong>No Segmentation</strong></td><td>Simplicity</td><td valign="top">Increased risk and lack of isolation</td></tr></tbody></table>
+<table><thead><tr><th valign="top">Option</th><th>Advantages</th><th valign="top">Limitations</th></tr></thead><tbody><tr><td valign="top"><strong>pfSense</strong></td><td><ul><li>Mature firewall platform</li><li>Strong documentation</li><li>Enterprise-grade features</li></ul></td><td valign="top"><ul><li>Slightly heavier resource footprint</li></ul></td></tr><tr><td valign="top"><strong>OPNsense</strong></td><td><ul><li>Modern interface, similar capabilities, open governance</li></ul></td><td valign="top"><ul><li>Smaller community compared to pfSense</li></ul></td></tr><tr><td valign="top"><strong>RouterOS (Mikrotik)</strong></td><td><ul><li>Powerful routing features</li></ul></td><td valign="top"><ul><li>Less aligned with open-source learning goals</li></ul></td></tr><tr><td valign="top"><strong>OpenWRT</strong></td><td><ul><li>Lightweight</li><li>Flexible</li></ul></td><td valign="top"><ul><li>Limited enterprise-grade firewall features</li></ul></td></tr><tr><td valign="top"><strong>Cloudflare Tunnel Only</strong></td><td><ul><li>Simplifies external exposure</li></ul></td><td valign="top"><ul><li>Does not provide internal segmentation</li></ul></td></tr><tr><td valign="top"><strong>No Segmentation</strong></td><td><ul><li>Simplicity</li></ul></td><td valign="top"><ul><li>Increased risk and lack of isolation</li></ul></td></tr></tbody></table>
 
 ***
 
