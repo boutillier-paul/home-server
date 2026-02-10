@@ -19,4 +19,4 @@
 * [Architecture design records (ADR)](architecture-design-records-adr/README.md)
   * [ADR-0000 - Template](architecture-design-records-adr/adr-0000-template.md)
   * [ADR-0001 - Virtualization Platform Selection](architecture-design-records-adr/adr-0001-virtualization-platform-selection.md)
-  * [ADR-0002-network-segmentation](architecture-design-records-adr/adr-0002-network-segmentation.md)
+  * [ADR-0002 Network Segmentation & Firewall Strategy](architecture-design-records-adr/adr-0002-network-segmentation-and-firewall-strategy.md)
