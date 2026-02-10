@@ -41,11 +41,12 @@ Tracking these items helps prioritize improvements without forcing unnecessary c
 
 ### Planned Remediation
 
-| Network    | High   | Deploy pfSense and VLAN segmentation |
-| ---------- | ------ | ------------------------------------ |
-| Storage    | High   | ZFS mirror and backup server         |
-| Identity   | Medium | Deploy Authentik or Keycloak         |
-| Automation | Low    | Introduce Terraform and Ansible      |
+| Area       | Priority | Planned Action                       |
+| ---------- | -------- | ------------------------------------ |
+| Network    | High     | Deploy pfSense and VLAN segmentation |
+| Storage    | High     | ZFS mirror and backup server         |
+| Identity   | Medium   | Deploy Authentik or Keycloak         |
+| Automation | Low      | Introduce Terraform and Ansible      |
 
 ***
 
