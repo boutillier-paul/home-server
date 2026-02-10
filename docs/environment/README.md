@@ -25,9 +25,9 @@ The information contained here should be kept up to date whenever infrastructure
 
 ### Contents
 
-* **Current architecture** — Overview of the existing infrastructure
-* **Hardware inventory** — Physical equipment and resources
-* **Network topology** — Logical and physical network layout
-* **IP addressing plan** — Current and planned addressing scheme
-* **Platform capabilities** — Functional capabilities currently provided
-* **Use cases** — Scenarios the platform supports
+* **Current architecture** - Overview of the existing infrastructure
+* **Hardware inventory** - Physical equipment and resources
+* **Network topology** - Logical and physical network layout
+* **IP addressing plan** - Current and planned addressing scheme
+* **Platform capabilities** - Functional capabilities currently provided
+* **Use cases** - Scenarios the platform supports

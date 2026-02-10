@@ -27,14 +27,10 @@ This section provides the context necessary to understand the motivations behind
 
 ### Contents
 
-* **Vision & Philosophy**\
-  Describes the architectural mindset and guiding principles behind the platform.
-* **Goals, Use Cases & Constraints**\
-  Defines the objectives, limitations and expected outcomes.
-* **Target Audience & Access Model**\
-  Explains who the platform is intended for and how access is structured.
-* **Glossary**\
-  Provides definitions for key technical terms used across the documentation.
+* **Vision & Philosophy -** Describes the architectural mindset and guiding principles behind the platform.
+* **Goals, Use Cases & Constraints -** Defines the objectives, limitations and expected outcomes.
+* **Target Audience & Access Model -** Explains who the platform is intended for and how access is structured.
+* **Glossary -** Provides definitions for key technical terms used across the documentation.
 
 
 
