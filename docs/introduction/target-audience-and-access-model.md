@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Target audience & access model
 
 ### Audience
@@ -65,3 +48,6 @@ The platform follows an identity-centric access strategy.
 ### Access Architecture
 
 <figure><img src="../.gitbook/assets/access-model.png" alt=""><figcaption></figcaption></figure>
+
+
+

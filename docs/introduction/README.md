@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Introduction
 
 This documentation describes the design, evolution and operation of a personal private cloud platform built as both a learning environment and a long-term infrastructure project.

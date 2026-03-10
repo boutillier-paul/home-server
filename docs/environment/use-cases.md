@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Use cases
 
 ### Operational Use
@@ -39,3 +22,8 @@ layout:
 * Game server hosting
 * Local AI model inference
 * Security lab exercises
+
+
+
+
+

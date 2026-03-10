@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Glossary
 
 ### VLAN
@@ -52,3 +35,8 @@ Virtualization platform used as the primary compute layer.
 ### ZFS
 
 Filesystem providing data integrity and replication capabilities.
+
+
+
+
+

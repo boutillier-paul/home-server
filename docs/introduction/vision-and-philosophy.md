@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Vision & philosophy
 
 ### Overview
@@ -118,3 +101,8 @@ Refactors and redesigns are expected and considered part of the learning process
 ### Platform Evolution Model
 
 <figure><img src="../.gitbook/assets/platform-evolution-model.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+

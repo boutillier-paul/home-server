@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Platform capabilities
 
 ### Current
@@ -47,3 +30,8 @@ layout:
 ### Evolution Direction
 
 Capabilities are introduced progressively to ensure each layer is stable before adding the next.
+
+
+
+
+

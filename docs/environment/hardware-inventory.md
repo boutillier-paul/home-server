@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Hardware inventory
 
 ### Primary Compute Node
@@ -68,3 +51,8 @@ Used for:
 * Potential quorum node in future cluster scenarios
 
 <figure><img src="../.gitbook/assets/orangepi5.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
