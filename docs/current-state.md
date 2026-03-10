@@ -1,8 +1,8 @@
 # Current state
 
-## 🏗️ Infrastructure Baseline – Phase 1 (Foundation & Secure Access)
+## Infrastructure Baseline – Phase 1 (Foundation & Secure Access)
 
-### 📍 Objectif de la phase
+### Objectif de la phase
 
 Mettre en place une base :
 
@@ -21,7 +21,7 @@ Cette phase couvre :
 
 ***
 
-## 🖥️ Infrastructure matérielle actuelle
+## Infrastructure matérielle actuelle
 
 ### Serveur principal
 
@@ -40,7 +40,7 @@ Cette phase couvre :
 
 ***
 
-## ⚙️ Installation Proxmox
+## Installation Proxmox
 
 * Mode UEFI
 * Secure Boot désactivé
@@ -64,9 +64,9 @@ dmesg | grep -e DMAR -e IOMMU
 
 ***
 
-## 🔐 Sécurisation des accès
+## Sécurisation des accès
 
-### 1️⃣ Exposition Internet
+### Exposition Internet
 
 * Aucun port forward actif sur Freebox
 * UPnP désactivé
@@ -74,7 +74,7 @@ dmesg | grep -e DMAR -e IOMMU
 
 ***
 
-### 2️⃣ Accès distant
+### Accès distant
 
 Utilisation de **Tailscale** :
 
@@ -96,7 +96,7 @@ Proxmox Host
 
 ***
 
-### 3️⃣ SSH
+### SSH
 
 * Root SSH désactivé
 * Password SSH désactivé
@@ -106,7 +106,7 @@ Proxmox Host
 
 ***
 
-### 4️⃣ UI Proxmox
+### UI Proxmox
 
 * Compte root désactivé pour l’UI
 * Compte admin dédié (`paul@pve`)
@@ -115,7 +115,7 @@ Proxmox Host
 
 ***
 
-### 5️⃣ Firewall Proxmox
+### Firewall Proxmox
 
 Configuration stricte :
 
@@ -136,7 +136,7 @@ Tout le reste est DROP.
 
 ***
 
-## 💾 Architecture stockage
+## Architecture stockage
 
 ### NVMe (VG: pve)
 
@@ -183,7 +183,7 @@ Usage :
 
 ***
 
-## 📊 État actuel de l’infrastructure
+## État actuel de l’infrastructure
 
 ### Sécurité
 
@@ -206,7 +206,7 @@ Usage :
 
 ***
 
-## 🧠 Décisions d’architecture (ADR implicites)
+## Décisions d’architecture (ADR implicites)
 
 1. Pas de ZFS mono-disk (complexité prématurée)
 2. Séparation OS / workload
@@ -216,7 +216,7 @@ Usage :
 
 ***
 
-## 🚀 Prochaines étapes (Phase 2)
+## Prochaines étapes (Phase 2)
 
 ### Priorité 1 – Infrastructure réseau
 
@@ -251,7 +251,7 @@ Usage :
 
 ***
 
-## 🎯 Position actuelle dans la roadmap
+## Position actuelle dans la roadmap
 
 ```
 [✓] Stabilité
