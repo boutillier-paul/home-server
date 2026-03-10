@@ -20,5 +20,5 @@
   * [ADR-0000 - Template](architecture-design-records-adr/adr-0000-template.md)
   * [ADR-0001 - Virtualization Platform Selection](architecture-design-records-adr/adr-0001-virtualization-platform-selection.md)
   * [ADR-0002 Network Segmentation & Firewall Strategy](architecture-design-records-adr/adr-0002-network-segmentation-and-firewall-strategy.md)
-* [Current state 1](current-state-1.md)
-* [Current state 2 - Matrix/Element Call](current-state-2-matrix-element-call.md)
+* [Current state 1](current-state.md)
+* [Current state 2 - Discord replacement](current-state-2-discord-replacement.md)
